@@ -7,22 +7,17 @@ This repository contains Python implementations for various cryptography Methods
 
 ## Requirements
 - Python 3.x
-- See `requirements.txt` for package dependencies.
 
-## Installation
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 ### Encoding and Decoding Text to Number
-Run `encoding_decoding.py` to execute the code.
+Run `encoding_decoding_txt2Num.py` to execute the code.
 
 ### Caesar Encryption and Decryption
-Run `caesar.py` to execute the code.
+Run `caesar_cipher.py` to execute the code.
 
 ### Exponential (Diffie-Hellman) Encryption and Decryption
-Run `exponential.py` to execute the code.
+Run `exponential_encryption_decoding.py` to execute the code.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
